@@ -1,5 +1,7 @@
 # Claude skills exploration via Claude web app
 
+All related resources for Meeti - Meeting transcript formatter and summarizer
+
 This repo is associated with the articles published on Medium at and at
 
 
